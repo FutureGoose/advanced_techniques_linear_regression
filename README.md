@@ -1,5 +1,5 @@
 # Advanced Techniques in Supervised Machine Learning: Linear Regression Deep Dive
-
+**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/advanced_techniques_linear_regression/blob/main/fundamentals_linear_regression_part2.ipynb).**
 ## Overview
 Expanding on "Fundamentals of Supervised Machine Learning: OLS Linear Regression" this project delves deeper into supervised learning with a concentrated analysis of California's housing market. It aims to enhance our understanding and application of machine learning through:
 - **Targeted Distribution Study**: Examining skewed and bimodal distributions for their modeling implications.
