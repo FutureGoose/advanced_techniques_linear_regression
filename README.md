@@ -7,7 +7,7 @@ Expanding on "Fundamentals of Supervised Machine Learning: OLS Linear Regression
 - **Innovative Feature Engineering**: Employing arithmetic and statistical methods to craft meaningful features.
 - **Robust EDA Methods**: Utilizing varied EDA techniques to uncover patterns that impact our target outcome.
 - **Regression Technique Expansion**: Exploring dummy encoding and OLS regression to enhance feature selection and insight extraction.
-- **scikit-learn Optimization**: Utilizing scikit-learn's pipeline for efficient, integrated preprocessing and modeling.
+- **Scikit-learn Optimization**: Utilizing scikit-learn's pipeline for efficient, integrated preprocessing and modeling.
 - **Polynomial Feature Dynamics**: Incorporating polynomial transformations to address non-linear patterns in the data.
 - **Normalization via Log Transformation**: Utilizing log transformations to balance skewed distributions and minimize outlier effects.
 - **Regularization for Model Stability**: Applying Ridge and Lasso regularization to prevent overfitting and promote model generalization.
